@@ -6,7 +6,7 @@
             "mofeng\\tp5\\": "src/framework/library/"
         },
         "files": [
-            "framework/library/common.php"
+            "src/framework/library/common.php"
         ]
     },
     "authors": [

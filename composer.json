@@ -12,6 +12,9 @@
             "email": "793212775@qq.com"
         }
     ],
-    "require": {},
-    "minimum-stability":"stable"
+    "require": {
+      "php": "^7.2"
+    },
+    "minimum-stability":"stable",
+    "license": "MIT"
 }

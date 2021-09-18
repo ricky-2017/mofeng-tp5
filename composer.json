@@ -4,7 +4,10 @@
     "autoload": {
         "psr-4": {
             "mofeng\\tp5\\": "src/framework/library/"
-        }
+        },
+        "files": [
+            "framework/library/common.php"
+        ]
     },
     "authors": [
         {

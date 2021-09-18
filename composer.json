@@ -1,0 +1,16 @@
+{
+    "name": "mofeng/tp5",
+    "description": "mofeng tp5.1 base farmwork\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[Ca\u001b[D\u001b[D\u001b[3~\u001b[3~\u001b[3~\u001b[2~\u001b[D\u001b[C\u001b[\u001b[F\u001b[B\u001b[B\u001b[F\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001bramework\u001b[D\u001b[D",
+    "autoload": {
+        "psr-4": {
+            "Mofeng\\Tp5\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rubio",
+            "email": "793212775@qq.com"
+        }
+    ],
+    "require": {}
+}

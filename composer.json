@@ -3,7 +3,7 @@
     "description": "mofeng tp5.1 base framwork",
     "autoload": {
         "psr-4": {
-            "mofeng\\tp5\\": "src/mofeng/tp5/framework/library/"
+            "mofeng\\tp5\\": "src/framework/library/"
         }
     },
     "authors": [
